@@ -1,5 +1,5 @@
 ---
-title: Add a URL App to Your Portal Site QA Hotpink
+title: Add a URL App to Your Portal Site dev-cyan
 description: Create a URL app and add it to the launchpad page on your Portal site.
 auto_validation: true
 time: 15
