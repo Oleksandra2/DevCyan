@@ -3,8 +3,8 @@ title: Add a URL App to Your Portal Site dev-cyan
 description: Create a URL app and add it to the launchpad page on your Portal site.
 auto_validation: true
 time: 15
-tags: [ tutorial>beginner, products>sap-cloud-platform-portal ]
-primary_tag: products>sap-cloud-platform-portal
+tags: [ tutorial>beginner, topic>android ]
+primary_tag: products>api-management
 author_name: Lindsay Bert
 ---
 
