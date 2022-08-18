@@ -1,5 +1,5 @@
 ---
-title: Parallel Processing and Parameters QA Hotpink
+title: Parallel Processing and Parameters dev-cyan
 description: Leverage SQLScript in stored procedures, user defined functions, and user defined libraries.
 author_name: Rich Heilman
 author_profile: https://github.com/rich-heilman
