@@ -4,7 +4,7 @@ description: The VM defaults to an English (US) QWERTY keyboard, and the UTC tim
 author_name: John Currie
 author_profile: https://github.com/JCurrie27
 primary_tag: products>sap-hana\,-express-edition
-tags: [ tutorial>beginner, products>sap-hana\,-express-edition ]
+tags: [ tutorial>beginner, products>sap-hana\,-express-edition, tutorial>license ]
 time: 5
 ---
 
