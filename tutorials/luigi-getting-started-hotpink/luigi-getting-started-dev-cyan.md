@@ -1,5 +1,5 @@
 ---
-title: Introduction to Luigi dev-cyan upd
+title: Introduction to Luigi dev-cyan upd2
 description: Learn about the basic architecture and terminology of the Luigi micro-frontend framework, and learn what you will build in the next tutorial steps.
 auto_validation: true
 time: 5
