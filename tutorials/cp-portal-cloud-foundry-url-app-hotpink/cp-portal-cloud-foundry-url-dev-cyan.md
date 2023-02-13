@@ -5,7 +5,6 @@ auto_validation: true
 time: 15
 primary_tag: software-product>sap-ar-service-technician-for-android
 tags: [  tutorial>intermediate, topic>sql, products>sap-hana, products>sap-hana-cloud, products>sap-business-application-studio, tutorial>license ]
-author_name: Lindsay Bert
 ---
 
 
