@@ -5,6 +5,8 @@ auto_validation: true
 time: 5
 tags: [ tutorial>beginner, topic>javascript, tutorial>license ]
 primary_tag: topic>user-interface
+author_name: Test Test
+author_profile: https://github.com/BigotryOps 
 ---
 
 ## Details
