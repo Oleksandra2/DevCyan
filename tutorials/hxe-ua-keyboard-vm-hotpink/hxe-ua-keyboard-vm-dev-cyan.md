@@ -4,6 +4,8 @@ description: The VM defaults to an English (US) QWERTY keyboard, and the UTC tim
 primary_tag: products>sap-hana\,-express-edition
 tags: [ tutorial>beginner, products>sap-hana\,-express-edition, tutorial>license ]
 time: 5
+author_name: Test Test
+author_profile: https://github.com/BigotryOps 
 ---
 
 <!-- loiod0775daa77ca4aaea29ea74b3e2e2ac1 -->
